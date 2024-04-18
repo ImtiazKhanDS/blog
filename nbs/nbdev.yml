@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "blog"
+  site-url: "https://ImtiazKhanDS.github.io/blog"
+  description: "Series of Technical Blogs"
+  repo-branch: main
+  repo-url: "https://github.com/ImtiazKhanDS/blog"

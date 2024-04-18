@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.12"
 nbdev = "^2.3.13"
 setuptools = "^69.5.1"
+jupyterlab = "^4.1.6"
+jupyterlab-quarto = "^0.3.3"
 
 
 [build-system]
